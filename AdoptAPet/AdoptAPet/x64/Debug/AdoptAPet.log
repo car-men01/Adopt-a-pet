@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.3
+  main.cpp
+D:\GitHub\Adopt-a-pet\AdoptAPet\main.cpp(22,21): warning C4129: 'G': unrecognized character escape sequence
+D:\GitHub\Adopt-a-pet\AdoptAPet\main.cpp(22,21): warning C4129: 'A': unrecognized character escape sequence
+D:\GitHub\Adopt-a-pet\AdoptAPet\main.cpp(22,21): warning C4129: 'D': unrecognized character escape sequence
+  AdoptAPet.vcxproj -> D:\GitHub\Adopt-a-pet\AdoptAPet\x64\Debug\AdoptAPet.exe
